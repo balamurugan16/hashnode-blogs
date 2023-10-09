@@ -3,7 +3,7 @@ title: "Higher order components in React"
 datePublished: Thu Oct 05 2023 18:09:30 GMT+0000 (Coordinated Universal Time)
 cuid: clndhs8gu000008l95f2tboqj
 slug: higher-order-components-in-react
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xkBaqlcqeb4/upload/e7606694539365c9cd686e6e924d30b8.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696875162369/a5ffb7d3-69b0-4365-a6be-712b417f5e97.png
 tags: javascript, reactjs, typescript
 
 ---
