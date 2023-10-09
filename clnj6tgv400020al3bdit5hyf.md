@@ -3,7 +3,7 @@ title: "Smart and Dumb React components"
 datePublished: Mon Oct 09 2023 17:49:09 GMT+0000 (Coordinated Universal Time)
 cuid: clnj6tgv400020al3bdit5hyf
 slug: smart-and-dumb-react-components
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xkBaqlcqeb4/upload/92154ba62268da9c8b606170df76227c.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696875228524/8c9868f1-4045-4e63-adc3-ac3eed423108.png
 tags: javascript, frontend, reactjs, programming-ciovqvfcb008mb253jrczo9ye
 
 ---
