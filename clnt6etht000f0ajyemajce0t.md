@@ -8,7 +8,7 @@ tags: css, javascript, reactjs
 
 ---
 
-Personally, for me, I don’t like to style. I mean, I don’t hate CSS and styling but I hate when I give styling a try and It looks like this.
+Personally, for me, I don’t like to style. I mean, I don’t hate CSS and styling but I hate when I give styling a try and It looks bad.
 
 Anyway, I don’t have to emphasize the importance of styling, If your users need to stay in your app, then the app should look good. Unlike the dating culture, in web development **“Looks do matter!”** (Just Kidding, Looks matter in dating as well! 😂).
 
