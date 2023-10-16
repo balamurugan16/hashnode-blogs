@@ -10,6 +10,8 @@ tags: css, javascript, reactjs
 
 Personally, for me, I don’t like to style. I mean, I don’t hate CSS and styling but I hate when I give styling a try and It looks bad.
 
+![CSS SUCKS | programming-memes, css-memes, program-memes, cs-memes | ProgrammerHumor.io](https://programmerhumor.io/wp-content/uploads/2021/06/programmerhumor-io-programming-memes-frontend-memes-8ec7b8ad89d906d.png align="center")
+
 Anyway, I don’t have to emphasize the importance of styling, If your users need to stay in your app, then the app should look good. Unlike the dating culture, in web development **“Looks do matter!”** (Just Kidding, Looks matter in dating as well! 😂).
 
 In this article, I will share 5 different ways to style react components so that you can choose the approach that suits you when you develop your application.
