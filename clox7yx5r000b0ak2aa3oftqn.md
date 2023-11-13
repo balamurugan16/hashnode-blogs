@@ -1,6 +1,6 @@
 ---
 title: "Demystifying JSX 🚀"
-seoTitle: "demystifying-jsx"
+seoTitle: "Demystifying JSX"
 seoDescription: "A blog explaining how JSX works with React"
 datePublished: Mon Nov 13 2023 18:09:52 GMT+0000 (Coordinated Universal Time)
 cuid: clox7yx5r000b0ak2aa3oftqn
