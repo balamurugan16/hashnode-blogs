@@ -20,7 +20,7 @@ So Node.JS came in and revolutionized the world of JavaScript. All the framework
 
 1. Bun is a **drop-in replacement** for node. Most of the node’s core utils work in a bun except utils that are close to the V8 engine.
     
-2. Bun offers a great developer experience by being a toolkit for JavaScript including a **test runner, debugger, bundler and package manager**, unlike NodeJS which needs 3rd party packages to achieve all of them.
+2. Bun offers a great developer experience by being a toolkit for JavaScript including a **test runner, debugger, bundler and package manager**.
     
 3. Last but not the least, **Speed**. Right from executing a script to installing a package, Bun is very fast.
     
