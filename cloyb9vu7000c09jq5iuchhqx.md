@@ -119,7 +119,7 @@ Conversely, the `some` method checks if at least one element in an array meets a
 const temperatures = [20, 25, 18, 22];
 
 const hasHighTemperature = temperatures.some((temp) => {
-  return temp > 25;
+  return temp >= 25;
 });
 
 console.log(hasHighTemperature); // true
